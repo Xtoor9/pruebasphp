@@ -4,4 +4,4 @@ INSERT INTO agenda VALUES (0, 'Juan Pérez', 'C/ Laguna, 15. Sevilla', '95.455.5
 
 INSERT INTO agenda VALUES (1, 'Luis García', 'C/ Betis, 22. Cádiz', '95.655.66.33', 'luis@agenda.com' )\g
 
-INSERT INTO agenda VALUES (2, 'Carlos Rodríguez', 'C/ Sevilla, 6. Huelva', '95.113.22.77', 'carlos@agenda.com' )\g
+INSERT INTO agenda VALUES (2, 'Carlos Rodríguez', 'C/ Sevilla, 6. Huelva', '95.113.22.77', 'carlos@agenda.com' )\gg
